@@ -1,12 +1,13 @@
 body {
   font-family: "Sans-serif";
-  background-color: #000080 ;
+  background-color: #000072;
   color: #ffffff;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
+
 
 .header {
   box-sizing: border-box;
